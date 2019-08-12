@@ -1,7 +1,7 @@
 # Budget
 ***
 ***
-##Budget controlling program. A python learning project.
+## Budget controlling program. A python learning project.
 ***
     THIS IS A TEST SCRIPT TO CONTROL MY BUDGET. THE IDEA IS TO CREATE 
     AN INTERACTIVE SCRIPT THAT TAKES INFORMATION FROM THE USER ABOUT
